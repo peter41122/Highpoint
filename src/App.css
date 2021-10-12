@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* sign page style */
+.sign-left-panel {
+  background-color: #00b0f0;
+}
+
+.border-bottom {
+  border-bottom: 1px solid black;
+}
