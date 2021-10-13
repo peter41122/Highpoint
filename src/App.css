@@ -37,11 +37,16 @@
   }
 }
 
-/* sign page style */
+/* signup page style */
 .sign-left-panel {
   background-color: #00b0f0;
 }
 
 .border-bottom {
   border-bottom: 1px solid black;
+}
+
+/* splash page style */
+.splash {
+  background-color: rgb(226, 240, 217);
 }
